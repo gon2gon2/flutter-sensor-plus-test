@@ -1,4 +1,6 @@
 # sensor_test
+![image](https://user-images.githubusercontent.com/62205620/177474833-ffe8455d-9e4f-4548-bd19-1919a423d7a9.png)
+
 
 ### 목적
 - 센서로 얻을 수 있는 값과 어떻게 값이 변화하는지 알기 위함
