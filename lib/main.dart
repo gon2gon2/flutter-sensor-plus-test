@@ -59,8 +59,8 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: <Widget>[
-            Text("Accelrometer:  $accelerometer"),
-            Text("UserAccelrometer:  $userAccelerometer"),
+            Text("Accelerometer:  $accelerometer"),
+            Text("UserAccelerometer:  $userAccelerometer"),
             Text("Gyroscope:  $gyroscope"),
             Text("Magnetometer:  $magnetometer"),
           ],

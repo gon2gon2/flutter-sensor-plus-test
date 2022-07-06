@@ -1,16 +1,14 @@
 # sensor_test
 
-A new Flutter project.
+### 목적
+- 센서로 얻을 수 있는 값과 어떻게 값이 변화하는지 알기 위함
 
-## Getting Started
+### 결과
+- 디바이스를 빠르게 움직이면 userAccelerometer 값이 변화함 (2.5~)
+- 어느 축의 값이 어느 정도의 범위로 변화했을 때 충돌이라고 인식할지 고민 필
 
-This project is a starting point for a Flutter application.
+### 사용한 패키지
+- sensor_plus
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 빌드된 apk 파일 위치
+- build/app/outputs/flutter-apk/app-release.apk
