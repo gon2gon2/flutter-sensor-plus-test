@@ -8,7 +8,7 @@
 - 어느 축의 값이 어느 정도의 범위로 변화했을 때 충돌이라고 인식할지 고민 필
 
 ### 사용한 패키지
-- sensor_plus
+- <a href="https://pub.dev/packages/sensors_plus">sensor_plus</a>
 
 ### 빌드된 apk 파일 위치
 - build/app/outputs/flutter-apk/app-release.apk
